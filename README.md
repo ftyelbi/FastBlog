@@ -21,7 +21,7 @@ FastBlog is a modern, full-stack blog application that allows users to create, e
 
 ### Project Description
 
-FastBlog is a comprehensive blogging platform where users can register, log in, and manage their blog posts. It supports features such as creating new posts, editing existing posts, deleting posts, and viewing a list of all published posts. The application is built with a modern tech stack, ensuring a smooth and responsive user experience.
+FastBlog is a comprehensive blogging platform where users can log in, and manage their blog posts. It supports features such as creating new posts, editing existing posts, deleting posts, and viewing a list of all published posts. The application is built with a modern tech stack, ensuring a smooth and responsive user experience.
 
 ---
 
@@ -42,18 +42,12 @@ FastBlog is a comprehensive blogging platform where users can register, log in, 
   - Tailwind CSS
 - **Backend:**
   - Node.js
-  - Express.js
+  - Axios
+  - React Toastify
 - **Database:**
   - MongoDB
-- **Authentication:**
-  - Auth0
-- **Image Hosting:**
-  - Cloudinary
-- **Email Notifications:**
-  - SendGrid
 - **Hosting:**
-  - Vercel (Frontend)
-  - Heroku (Backend)
+  - http://localhost:3000
 
 ---
 
