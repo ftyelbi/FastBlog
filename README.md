@@ -21,7 +21,7 @@ FastBlog is a modern, full-stack blog application that allows users to create, e
 
 ### Project Description
 
-FastBlog is a comprehensive blogging platform where users can log in, and manage their blog posts. It supports features such as creating new posts, editing existing posts, deleting posts, and viewing a list of all published posts. The application is built with a modern tech stack, ensuring a smooth and responsive user experience.
+FastBlog is a comprehensive blogging platform where users can log in, and manage their blog posts. It supports features such as creating new posts, updating existing posts, deleting posts, and viewing a list of all published posts. The application is built with a modern tech stack, ensuring a smooth and responsive user experience.
 
 ---
 
