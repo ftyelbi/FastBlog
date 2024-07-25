@@ -26,7 +26,7 @@ export async function GET(request) {
 }
 
 
-// API Endpoint For Uploading Blogs
+// API Endpoint For Uploading Blogs.
 export async function POST(request) {
 
   const formData = await request.formData();
