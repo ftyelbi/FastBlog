@@ -11,7 +11,7 @@ const LoadDB = async () => {
 LoadDB();
 
 
-// API Endpoint to get all blogs
+// API Endpoint to get all blogs.
 export async function GET(request) {
 
   const blogId = request.nextUrl.searchParams.get("id");
